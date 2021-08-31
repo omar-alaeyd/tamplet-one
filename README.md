@@ -1,2 +1,2 @@
-# tamplet-one
-tamplet-one
+# tamplet.one
+tamplet.one
